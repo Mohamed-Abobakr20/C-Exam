@@ -1,0 +1,15 @@
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\bin\Debug\net6.0\C# Exam.exe
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\bin\Debug\net6.0\C# Exam.deps.json
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\bin\Debug\net6.0\C# Exam.runtimeconfig.json
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\bin\Debug\net6.0\C# Exam.dll
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\bin\Debug\net6.0\C# Exam.pdb
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.csproj.AssemblyReference.cache
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.AssemblyInfoInputs.cache
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.AssemblyInfo.cs
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.csproj.CoreCompileInputs.cache
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.dll
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\refint\C# Exam.dll
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.pdb
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\C# Exam.genruntimeconfig.cache
+D:\Work Route\C41 Workshop\C# Exam\C# Exam\obj\Debug\net6.0\ref\C# Exam.dll
